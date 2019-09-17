@@ -1,0 +1,3 @@
+*.sh
+*.html
+__pycache__
