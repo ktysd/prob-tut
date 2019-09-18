@@ -1,4 +1,4 @@
-# 「Pythonでわかる確率論入門」サポートサイト
+# 「Pythonでわかる確率論入門」プログラムの配布
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 
@@ -36,3 +36,10 @@ ipynb拡張子のファイルがノートブックで，クリックすると開
 本家はこちらです．
 
 * https://jupyter.org/
+
+## 著者について
+
+* [ Amazon.co.jp の 吉田 勝俊 ページ](https://www.amazon.co.jp/-/e/B004LU422W)
+* 授業サイト http://edu.katzlab.jp
+* 研究室サイト http://www.katzlab.jp
+
