@@ -2,9 +2,7 @@
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 
-<a href="https://www.amazon.co.jp/gp/product/B07XZ37TVS">
-<img src="https://images-fe.ssl-images-amazon.com/images/I/51-e6eqLcDL.jpg" width="20%">
-</a>
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07XZ37TVS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XZ37TVS&linkCode=as2&tag=kanetowa-22&linkId=b4b9309fc6727d614e14c820674a12f8"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07XZ37TVS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=kanetowa-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=kanetowa-22&l=am2&o=9&a=B07XZ37TVS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <font color="red"> 本レポジトリの内容は，自由にご利用頂けますが，無保証となります．</font>
 
@@ -27,7 +25,7 @@ GitHubユーザの皆様は，いつもの要領でお願いします．ここ�
 * Ch14-2_EKBF.ipynb　14章 拡張カルマンブーシーフィルタ
 * Ch14-3_EnKF.ipynb　14章 アンサンブルカルマンフィルタ
 
-ipynb拡張子のファイルがノートブックで，クリックすると開きます．あとは，Jupyter Notebookの操作方法に従って下さい．初めての方は，次のサイトが参考になると思います．
+ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．初めての方は，次のサイトが参考になると思います．
 
 * https://qiita.com/horankey_jet_city/items/f29c3477a5099f12cb18
 
