@@ -1,10 +1,16 @@
-# 「Pythonでわかる確率論入門」プログラムの配布
+# 「Pythonでわかる確率論入門」プログラムの配布＆正誤表
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 
 * [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで](https://www.amazon.co.jp/gp/product/B07XZ37TVS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XZ37TVS&linkCode=as2&tag=kanetowa-22&linkId=4b6d3e7fca2552ce00bd910018f9cb61)
+<details><summary>正誤表</summary>
+POD版(近日出版)に誤植があれば，こちらに掲載します．<br/>
+Kindle版については，POD版と同じ正誤表で対応するか考え中です．書籍データの更新は簡単なのですが，すでに購入された方の書籍データは，著者の申請が通らないと更新されないようなのです．この申請がどの程度通りやすいものなのか，やってみないと分からないところがあります．
+</details>
 
-<font color="red"> 本レポジトリの内容は，自由にご利用頂けますが，無保証となります．</font>
+<!--  * 正誤表　※POD版の誤植が判明した時点で公開します．-->
+
+<font color="red"> 本レポジトリの内容は，自由にご利用頂けますが，無補償となります．</font>
 
 ## 作業フォルダのダウンロード
 
@@ -37,7 +43,9 @@ ipynb拡張子のファイルがノートブックです．クリックすると
 
 ## 著者について
 
-* [ Amazon.co.jp の 吉田 勝俊 ページ](https://www.amazon.co.jp/-/e/B004LU422W)
-* 授業サイト http://edu.katzlab.jp
-* 研究室サイト http://www.katzlab.jp
+* [Amazon.co.jp の 吉田 勝俊 ページ](https://www.amazon.co.jp/-/e/B004LU422W)
+* [吉田の教材文庫 (授業サイト)](https://ktysd.github.io) 　( `http://edu.katzlab.jp`はエイリアスです)
+* [System Dynamics Group (研究室サイト)](http://www.katzlab.jp)
+
+
 
