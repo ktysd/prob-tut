@@ -2,10 +2,9 @@
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 
-* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで](https://www.amazon.co.jp/gp/product/B07XZ37TVS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XZ37TVS&linkCode=as2&tag=kanetowa-22&linkId=4b6d3e7fca2552ce00bd910018f9cb61)
+* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで](https://www.amazon.co.jp/gp/product/B07XZ37TVS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XZ37TVS&linkCode=as2&tag=kanetowa-22&linkId=4b6d3e7fca2552ce00bd910018f9cb61)<br/>
 <details><summary>正誤表</summary>
-POD版(近日出版)に誤植があれば，こちらに掲載します．<br/>
-Kindle版については，POD版と同じ正誤表で対応するか考え中です．書籍データの更新は簡単なのですが，すでに購入された方の書籍データは，著者の申請が通らないと更新されないようなのです．この申請がどの程度通りやすいものなのか，やってみないと分からないところがあります．
+[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
 </details>
 
 <!--  * 正誤表　※POD版の誤植が判明した時点で公開します．-->
