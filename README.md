@@ -6,10 +6,11 @@
 1. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)
 2. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
 
-<details><summary><font color="red">正誤表</font></summary>
+<details open>
+<summary><font color="red">正誤表</font></summary>
 
 1. ペーパーバック版の正誤表は，[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
-2. Kindle版の正誤表は，Amazonの「[商品の説明](https://amzn.to/32rvHrf)」欄に概略を記述します．
+2. Kindle版の正誤表は，[Amazon](https://amzn.to/32rvHrf)の「商品の説明」欄に概略を記述します．
 
 </details>
 
