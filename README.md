@@ -3,11 +3,14 @@
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 （<font color="red">無保証となります</font>）
 
-* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)
-* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
+1. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)
+2. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
+
 <details><summary><font color="red">正誤表</font></summary>
-ペーパーバック版の正誤表は，[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．<br/>
-Kindle版の正誤表は，Amazonの「[商品の説明](https://amzn.to/32rvHrf)」欄に概略を記述します．
+
+1. ペーパーバック版の正誤表は，[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
+2. Kindle版の正誤表は，Amazonの「[商品の説明](https://amzn.to/32rvHrf)」欄に概略を記述します．
+
 </details>
 
 
@@ -22,8 +25,8 @@ GitHubユーザの皆様は，いつもの要領でお願いします．ここ�
 用意できた「Jupyter」フォルダを作業フォルダとして，Jupyter Notebook を起動すると，ファイル一覧が表示されます．ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．
 
 |ファイル名|内容|
-|---|---|---|
-|Ch02.ipynb|2章 確率空間
+|----|----|
+|Ch02.ipynb|2章 確率空間|
 |... 中略 ...|......|
 |Ch11.ipynb|11章 カルマンフィルタ|
 |Ch12.ipynb|12章 カルマンブーシーフィルタ|
