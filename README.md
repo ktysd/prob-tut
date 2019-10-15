@@ -1,15 +1,15 @@
 # 「Pythonでわかる確率論入門」プログラムの配布＆正誤表
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
+（<font color="red">無保証となります</font>）
 
-* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで](https://www.amazon.co.jp/gp/product/B07XZ37TVS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XZ37TVS&linkCode=as2&tag=kanetowa-22&linkId=4b6d3e7fca2552ce00bd910018f9cb61)<br/>
-<details><summary>正誤表</summary>
-[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
+* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)
+* [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
+<details><summary><font color="red">正誤表</font></summary>
+ペーパーバック版の正誤表は，[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．<br/>
+Kindle版の正誤表は，Amazonの「[商品の説明](https://amzn.to/32rvHrf)」欄に概略を記述します．
 </details>
 
-<!--  * 正誤表　※POD版の誤植が判明した時点で公開します．-->
-
-<font color="red"> 本レポジトリの内容は，自由にご利用頂けますが，無補償となります．</font>
 
 ## 作業フォルダのダウンロード
 
@@ -19,18 +19,20 @@ GitHubユーザの皆様は，いつもの要領でお願いします．ここ�
 
 ## プログラムの実行方法
 
-用意できた「Jupyter」フォルダを作業フォルダとして，Jupyter Notebook を起動すると，ファイル一覧が表示されます．
+用意できた「Jupyter」フォルダを作業フォルダとして，Jupyter Notebook を起動すると，ファイル一覧が表示されます．ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．
 
-* Ch02.ipynb 2章 確率空間
-* ... 中略 ...
-* Ch11.ipynb 11章 カルマンフィルタ
-* Ch12.ipynb 12章 カルマンブーシーフィルタ
-* Ch13.ipynb 13章 LQGレギュレータ
-* Ch14-1_EKF.ipynb　14章 拡張カルマンフィルタ
-* Ch14-2_EKBF.ipynb　14章 拡張カルマンブーシーフィルタ
-* Ch14-3_EnKF.ipynb　14章 アンサンブルカルマンフィルタ
+|ファイル名|内容|
+|---|---|---|
+|Ch02.ipynb|2章 確率空間
+|... 中略 ...|......|
+|Ch11.ipynb|11章 カルマンフィルタ|
+|Ch12.ipynb|12章 カルマンブーシーフィルタ|
+|Ch13.ipynb|13章 LQGレギュレータ|
+|Ch14-1_EKF.ipynb|14章 拡張カルマンフィルタ|
+|Ch14-2_EKBF.ipynb|14章 拡張カルマンブーシーフィルタ|
+|Ch14-3_EnKF.ipynb|14章 アンサンブルカルマンフィルタ|
 
-ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．初めての方は，次のサイトが参考になると思います．
+Jupyter Notebookが初めての方は，次のサイトが参考になると思います．
 
 * https://qiita.com/horankey_jet_city/items/f29c3477a5099f12cb18
 
@@ -46,5 +48,7 @@ ipynb拡張子のファイルがノートブックです．クリックすると
 * [吉田の教材文庫 (授業サイト)](https://ktysd.github.io) 　( `http://edu.katzlab.jp`はエイリアスです)
 * [System Dynamics Group (研究室サイト)](http://www.katzlab.jp)
 
+《関連記事》
+* [確率論のσ加法族（ほんとは有限だけど）の自動生成を Sympy で書いてみた！ - Qiita](https://qiita.com/ktsysd/items/97f75330f9492e727799)
 
 
