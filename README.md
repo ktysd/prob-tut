@@ -9,7 +9,7 @@
 <details open>
 <summary><font color="red">正誤表</font></summary>
 
-1. Kindle版（〜2019/10/10）・・・[Amazon](https://amzn.to/32rvHrf)の「商品の説明」欄に正誤の概略を記述しました．
+1. Kindle版（〜2019/10/10）・・・[Errata_ｋindle.md](https://github.com/ktysd/prob-tut/blob/master/Errata_ｋindle.md)をご覧ください．
 1. ペーパーバック版とKindle版（2019/10/11〜）・・・[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
 
 </details>
