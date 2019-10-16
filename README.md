@@ -9,7 +9,7 @@
 <details open>
 <summary><font color="red">正誤表</font></summary>
 
-1. Kindle版（〜2019/10/10）・・・[Errata_ｋindle.md](Errata_kindle.md)をご覧ください．
+1. Kindle版（〜2019/10/10）・・・[Errata_kindle.md](Errata_kindle.md) をご覧ください．
 1. ペーパーバック版とKindle版（2019/10/11〜）・・・[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
 
 </details>
