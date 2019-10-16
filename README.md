@@ -9,21 +9,22 @@
 <details open>
 <summary><font color="red">正誤表</font></summary>
 
-1. ペーパーバック版の正誤表は，[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
-2. Kindle版の正誤表は，[Amazon](https://amzn.to/32rvHrf)の「商品の説明」欄に概略を記述します．
+1. Kindle版（〜2019/10/11）・・・[Amazon](https://amzn.to/32rvHrf)の「商品の説明」欄に正誤の概略を記述しました．
+1. ペーパーバック版とKindle版（2019/10/12〜）・・・[吉田の教材文庫 (授業サイト)](https://ktysd.github.io/books/pb) に掲載していきます．
 
 </details>
 
 
 ## 作業フォルダのダウンロード
 
-GitHubがよく分からない皆様は，上方の「Clone or download」ボタンをクリックしてください．「Download ZIP」をクリックすると，ZIPファイルがダウンロードされます．これを適当な場所に解凍してください．
-
-GitHubユーザの皆様は，いつもの要領でお願いします．ここの複製を手元に用意してください．
+* GitHubがよく分からない皆様は，上方の「Clone or download」ボタンをクリックしてください．
+* 「Download ZIP」をクリックすると，ZIPファイルがダウンロードされます．これを適当な場所に解凍してください．
+* GitHubユーザの皆様は，いつもの要領でお願いします．ここの複製を手元に用意してください．
 
 ## プログラムの実行方法
 
-用意できた「Jupyter」フォルダを作業フォルダとして，Jupyter Notebook を起動すると，ファイル一覧が表示されます．ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．
+* 用意できた「Jupyter」フォルダを作業フォルダとして，Jupyter Notebook を起動すると，ファイル一覧が表示されます．
+* ipynb拡張子のファイルがノートブックです．クリックすると開くので，Jupyter Notebookの操作方法に従って下さい．
 
 |ファイル名|内容|
 |----|----|
