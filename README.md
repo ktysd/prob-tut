@@ -1,10 +1,10 @@
-# 「Pythonでわかる確率論入門」プログラムの配布＆正誤表
+# 「ガチャではじめる確率論入門（旧題：Pythonでわかる確率論入門）」プログラムの配布＆正誤表
 
 このレポジトリでは，次の書籍の Python プログラムを配布しています．
 （<font color="red">無保証となります</font>）
 
-1. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)
-2. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
+1. [Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/31flXih)※近日，改題予定
+2. [ガチャではじめる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)<br/>
 
 <details open>
 <summary><font color="red">正誤表</font></summary>
