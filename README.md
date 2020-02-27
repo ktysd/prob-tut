@@ -5,7 +5,7 @@
 
 1. [ガチャではじめる確率論入門ー確率空間からカルマンフィルタまで （Kindle版）](https://amzn.to/32rvHrf)
 2. [ガチャではじめる確率論入門ー確率空間からカルマンフィルタまで （ペーパーバック版）](https://amzn.to/2TmcyTU)
-3. 旧題: Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版，ペーパーバック版）※ 新品購入は出来ません．
+3. 旧題: Pythonでわかる確率論入門ー確率空間からカルマンフィルタまで （Kindle版，ペーパーバック版）<br/>※ 新品購入はできません．
 
 <details open>
 <summary><font color="red">正誤表</font></summary>
